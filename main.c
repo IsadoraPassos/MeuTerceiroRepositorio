@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void imprimirBob(){
-	printf("Bo");
+	printf("Bob");
 }
 
 int main(){
