@@ -1,3 +1,9 @@
 #include <stdio.h>
 
-int main(){}
+void imprimirBob(){
+	printf("\nBob");
+}
+
+int main(){
+
+}
